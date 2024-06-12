@@ -1,6 +1,6 @@
 👋 Hi, I’m @ClemZh
 
-🔭 My colleagues and I are currently working on an app that can scrape and analyze Twitter/X: [Scraping App]
+🔭 My colleagues and I are currently working on an app that can scrape and analyze Twitter/X
 
 👀 I’m interested in using models to explain real-life phenomena
 
