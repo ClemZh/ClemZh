@@ -1,6 +1,6 @@
 👋 Hi, I’m @ClemZh
 
-🔭 My colleagues and I are currently working on an app that can scrape and analyze Twitter/X: //[Scraping App](https://github.com/CloeMAIN/AudensielTwitterWebscrap)
+🔭 My colleagues and I are currently working on an app that can scrape and analyze Twitter/X: [Scraping App]
 
 👀 I’m interested in using models to explain real-life phenomena
 
@@ -10,7 +10,7 @@
 
 ## Projects:
 
-### [Scraping and Analysis]//(https://github.com/CloeMAIN/AudensielTwitterWebscrap)
+### [Scraping and Analysis]
 A tool enabling users to retrieve tweets based on specified keywords, with added functionality for generating a dashboard that summarizes diverse analyses derived from scraped data.
 -Django/ReactJs/MongoDB
 
