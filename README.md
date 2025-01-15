@@ -12,18 +12,27 @@
 
 ### [Scraping and Analysis]
 A tool enabling users to retrieve tweets based on specified keywords, with added functionality for generating a dashboard that summarizes diverse analyses derived from scraped data.
+
 -Django/ReactJs/MongoDB
+
+### [Rag application](https://github.com/ClemZh/RAG_app)
+An app that enables users to give specific pdf document and ask question about it. This uses a free llm model.
+
+-Django/Ollama
 
 ### [Olympics Game App](https://github.com/LindaMAIN/CPP-PROJECT)
 An offline application containing different information about the Olympics Games 2024 and Paris in general. Contains easter eggs like a simulation and a game.
+
 -C++/Qt
 
 ### [Workflow App](https://github.com/ClemZh/IACoeur_catalogue)
 An application designed to assist medical professionals in orchestrating various tasks within their workflow, including analysis, diagnosis, and data visualization.
+
 -Django/ReactJs/MongoDB
 
 ### [Parallel programming]
 This project was developed to optimize task distribution among various devices and enhance overall performance. Our aim was to determine the most efficient method for distributing tasks while achieving optimal performance. To achieve this goal, we utilized a codebase that simulated heat distribution within a solid.
+
 -OpenMPI/C.
 
 ## Languages and Skills:
